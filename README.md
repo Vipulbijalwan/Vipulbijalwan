@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vipulbijalwan/Vipulbijalwan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vipulbijalwan/Vipulbijalwan/output/generate-snake.yml" alt="Snake animation" />
 
 ###
 
