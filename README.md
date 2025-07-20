@@ -52,7 +52,6 @@
 ### 🧠 My Learning & Projects
 - 🔧 Working on: Data Pipelines using PySpark, Airflow & PostgreSQL
 - 🧪 Practicing: SQL tuning, DSA on LeetCode, Python automation
-- 📝 Writing: Mini blogs on debugging and cloud data pipelines *(coming soon)*
 
 ---
 
